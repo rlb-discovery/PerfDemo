@@ -1,4 +1,4 @@
-AUTH="raffaelelabrocca_RMftLB:nAGHcDHGovryoCU6vyLC"
+AUTH=""
 TEST_SUITE=$1
 APP=$2
 
